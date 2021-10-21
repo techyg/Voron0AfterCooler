@@ -16,6 +16,7 @@ Purpose: Provide additional cooling, which will be helpful for many reasons incl
 
 Goal: Printable on Voron 0.1, easily add after building (no square nuts required)
 Supplies needed: 
+
     - 2 small m5 heat inserts (same kind as used during Voron assembly)
     
     - 2 M3x12mm socket head screws
